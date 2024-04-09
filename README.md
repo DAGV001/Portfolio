@@ -15,8 +15,8 @@ Welcome to my repository of machine learning projects! This repository contains 
 - **Data Analysis:** Descriptive and prescriptive modeling, data preprocessing, feature engineering
 - **Machine Learning:** Logistic regression, classification, clustering, model evaluation
 
-##About Me
+## About Me
 I'm David Gutiérrez, currently pursuing a Master's degree in Applied Artificial Intelligence at ITESM. With a background and a Bachelor's in entrepreneurship and a passion for technology, I aim to leverage machine learning and data analysis to drive business innovation and decision-making.
 
-##Connect with Me
+## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/davidgutierreztec/)
