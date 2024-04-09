@@ -4,7 +4,7 @@ Welcome to my repository of machine learning projects! This repository contains 
 
 ## Projects Overview
 
-### [Project 1: Tumor Classification with Logistic Regression](link-to-project-1)
+### [Project 1: Tumor Classification with Logistic Regression]([link-to-project-1](https://github.com/DAGV001/Modelos-de-aprendizaje/blob/main/Early_Detection_of_Malignant_Tumors_A_Logistic_Regression_Approach%20(1).ipynb))
 - **Objective:** Develop a logistic regression model to classify tumors as benign or malignant.
 - **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 - **Key Achievements:** Achieved an accuracy of X%, applied feature selection and PCA to improve model performance.
