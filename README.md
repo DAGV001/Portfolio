@@ -12,5 +12,5 @@ Welcome to my repository of machine learning projects! This repository contains 
 ## Skills and Technologies
 - **Programming Languages:** Python
 - **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, ZBurn
-- **Data Analysis: Descriptive and prescriptive modeling, data preprocessing, feature engineering
-- **Machine Learning: Logistic regression, classification, clustering, model evaluation
+- **Data Analysis:** Descriptive and prescriptive modeling, data preprocessing, feature engineering
+- **Machine Learning:** Logistic regression, classification, clustering, model evaluation
