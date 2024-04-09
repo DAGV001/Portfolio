@@ -1,2 +1,2 @@
 # Modelos-de-aprendizaje
-Modelos de aprendizaje de ...
+Modelos de aprendizaje de ML.
